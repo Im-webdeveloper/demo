@@ -221,8 +221,12 @@ body {
     justify-content: center;
     margin: 25px;
     margin-bottom: 0;
+}
+
+.footer-section .social-links .social-icons a{
     text-decoration: none;
 }
+
 
 .footer-section .social-links .social-icons .sm-icon {
     padding: 20px;
