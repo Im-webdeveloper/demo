@@ -223,7 +223,8 @@ body {
     margin-bottom: 0;
 }
 
-.footer-section .social-links .social-icons a{
+.footer-section .social-links .social-icons{
+    list-style-type: none;
     text-decoration: none;
 }
 
