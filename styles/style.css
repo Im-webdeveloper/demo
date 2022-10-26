@@ -224,6 +224,7 @@ body {
 }
 
 .footer-section .social-links .social-icons .sm-icon {
+    text-decoration: none;
     padding: 20px;
     padding-top: 8px;
     padding-bottom: 20px;
